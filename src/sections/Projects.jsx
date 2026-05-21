@@ -34,7 +34,7 @@ const projects = [
   },
   {
     title: "Agronomist Chatbot",
-    images: ["/agropic.jpeg","/landedagro.jpeg"],
+    images: ["/agropic.jpeg","/agro7.png","/landedagro.jpeg"],
     description: "An AI-powered agricultural chatbot developed to assist farmers with crop-related guidance and support.",
     techStack: ["Next.js", "OpenAI API", "Tavily API", "Gemini API"],
     links: [
