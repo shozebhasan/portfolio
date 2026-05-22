@@ -75,7 +75,7 @@ const projects = [
     title: "Rag Project For Ecommerce Store",
     images: ["/ecom.png"],
     description: "A Retrieval-Augmented Generation (RAG) system developed for ecommerce stores to provide intelligent product assistance and providing accurate results stored in real company data.",
-    techStack: ["Next.js", "Embeddings", "Vector - DB","PyPDF2","LangChain","Tailwind CSS","pdf-parse","PostgreSql"],
+    techStack: ["Next.js", "Embeddings", "Vector - DB","PyPDF2","LangChain","Tailwind CSS","pdf-parse","PostgreSql","Ingestion"],
     links: [
       { label: "Frontend", href: "https://github.com/shozebhasan/ecomchatbotfrontend", icon: "code" },
       { label: "Backend", href: "https://github.com/shozebhasan/E-commerce--Chatbot-RAG-", icon: "code" },
