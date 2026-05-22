@@ -12,15 +12,7 @@ import {
 const spacemono = Space_Mono({ subsets: ["latin"], weight: ["400", "700"] });
 
 const projects = [
-  {
-    title: "House Of Brand",
-    images: ["/h1.png","/h2.png","/h3.png","/h4.png"],
-    description: "An ecommerce website made in wordpress.",
-    techStack: ["WordPress", "Elementor", "Shopify"],
-    links: [
-      { label: "Live", href: "https://houseofbrand.pk/", icon: "live" },
-    ],
-  },
+ 
   {
     title: "Neuro Sense",
     images: ["/landedneuro.png","/chatnene.png","/testpic.png","/analyzepic.png"],
@@ -59,6 +51,15 @@ const projects = [
     techStack: ["Next.js", "Hadoop", "Spark", "Linear Regression"],
     links: [
       { label: "Backend", href: "https://github.com/shozebhasan/student_backend", icon: "code" },
+    ],
+  },
+   {
+    title: "House Of Brand",
+    images: ["/h1.png","/h2.png","/h3.png","/h4.png"],
+    description: "Developed a responsive eCommerce website using WordPress and Elementor, integrated with Shopify for seamless product and order management.",
+    techStack: ["WordPress", "Elementor", "Shopify"],
+    links: [
+      { label: "Live", href: "https://houseofbrand.pk/", icon: "live" },
     ],
   },
   {
