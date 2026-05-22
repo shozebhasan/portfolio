@@ -56,7 +56,7 @@ const projects = [
    {
     title: "House Of Brand",
     images: ["/h1.png","/h2.png","/h3.png","/h4.png"],
-    description: "Developed a responsive eCommerce website using WordPress and Elementor, integrated with Shopify for seamless product and order management.",
+    description: "Developed a responsive eCommerce website using WordPress and Elementor, integrated with Shopify for seamless product and order management.Developed a responsive eCommerce website using WordPress and Elementor, integrated with Shopify for seamless product and order management",
     techStack: ["WordPress", "Elementor", "Shopify"],
     links: [
       { label: "Live", href: "https://houseofbrand.pk/", icon: "live" },
