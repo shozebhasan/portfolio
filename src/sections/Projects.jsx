@@ -54,11 +54,11 @@ const projects = [
   },
   {
     title: "Yolo v8 Car Speed Detection",
-    images: ["/val_batch1_pred.jpg"],
+    images: ["/val_batch1_pred.jpg","/BoxF1_curve.png","/confusion_matrix_normalized.png","/labels_correlogram.jpg","/labels.jpg","/results.png","/val_batch0_pred.jpg"],
     description: "A real-time vehicle monitoring system built using YOLOv8 for car detection and speed estimation. It detect's speed sign.",
     techStack: ["React", "Socket.io", "Firebase", "Express"],
     links: [
-      { label: "Kaggle Notebook", href: "https://github.com/shozebhasan/project-five", icon: "code" },
+      { label: "Kaggle Notebook", href: "https://www.kaggle.com/code/shozebhasan/car-object-detection/edit", icon: "code" },
     ],
   },
   {
@@ -67,8 +67,8 @@ const projects = [
     description: "A Retrieval-Augmented Generation (RAG) system developed for ecommerce stores to provide intelligent product assistance.",
     techStack: ["Next.js", "Embeddings", "Vector - DB"],
     links: [
-      { label: "Frontend", href: "https://github.com/shozebhasan/project-six", icon: "code" },
-      { label: "Backend", href: "https://project-six.vercel.app", icon: "code" },
+      { label: "Frontend", href: "https://github.com/shozebhasan/ecomchatbotfrontend", icon: "code" },
+      { label: "Backend", href: "https://github.com/shozebhasan/E-commerce--Chatbot-RAG-", icon: "code" },
     ],
   },
   {
