@@ -13,6 +13,15 @@ const spacemono = Space_Mono({ subsets: ["latin"], weight: ["400", "700"] });
 
 const projects = [
   {
+    title: "House Of Brand",
+    images: ["/h1.png","/h2.png","/h3.png","/h4.png"],
+    description: "An ecommerce website made in wordpress.",
+    techStack: ["WordPress", "Elementor", "Shopify"],
+    links: [
+      { label: "Live", href: "https://houseofbrand.pk/", icon: "live" },
+    ],
+  },
+  {
     title: "Neuro Sense",
     images: ["/landedneuro.png","/chatnene.png","/testpic.png","/analyzepic.png"],
     description: "An AI-powered healthcare application that analyzes medical reports and evaluates cognitive health through quizzes and puzzle-based activities.",

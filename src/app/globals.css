@@ -1,9 +1,6 @@
 @import "tailwindcss";
 
-*{
-    font-family: "Alan Sans", sans-serif;
 
-}
 :root {
   --background: #ffffff;
   --foreground: #171717;
